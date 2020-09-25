@@ -1,0 +1,8 @@
+[package]
+authors = [
+    "Hunar Roop Kahlon <hunar.roop@gmail.com>"
+]
+description = "A language and transpiler for mcfunctions"
+edition = "2018"
+name = "mclang"
+version = "0.1.0"
