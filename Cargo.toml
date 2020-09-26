@@ -6,3 +6,6 @@ description = "A language and transpiler for mcfunctions"
 edition = "2018"
 name = "mclang"
 version = "0.1.0"
+
+[dependencies.nom]
+version = "5.1.2"
